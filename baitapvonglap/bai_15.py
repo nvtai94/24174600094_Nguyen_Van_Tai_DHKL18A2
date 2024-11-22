@@ -1,4 +1,4 @@
-#Bai_1
+#Bai_15
 #Chuyển từ cơ số 10 sang cơ số 2
 n = int(input("nhập số thập phân: "))
 if n == 0:

@@ -2,10 +2,10 @@
 import math
 
 #Nhập vào một số
-n = int(input("Nhập một số: "))
+n = int(input("nhập một số: "))
 
 #Tính căn bậc hai của số n
-sqrt_n = math.isqrt(n)  # dùng math.isqrt để lấy căn bậc hai nguyên của n
+sqrt_n = math.isqrt(n)
 
 #Kiểm tra nếu căn bậc hai bình phương = n
 if sqrt_n * sqrt_n == n:

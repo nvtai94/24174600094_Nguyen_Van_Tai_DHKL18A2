@@ -8,9 +8,9 @@ if n <= 1:
 else:
     # Duyệt qua ước số từ 1 đến n-1
     for i in range(1, n):
-        if n % i == 0:  #i là ước số của n
-            n -= i  # Trừ ước số vào n
-        if n == 0:  # Nếu sau khi trừ hết các ước số mà n bằng 0
+        if n % i == 0:
+            n -= i  
+        if n == 0: 
             print(f"{n}là số hoàn hảo.")
             break
     else:
