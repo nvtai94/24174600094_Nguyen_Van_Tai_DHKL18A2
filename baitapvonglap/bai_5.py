@@ -14,4 +14,4 @@ else:
             print(f"{n}là số hoàn hảo.")
             break
     else:
-        print(f"{n}không phải là số hoàn hảo.")
+        print(f"{n}không phải là số hoàn hảo.") 

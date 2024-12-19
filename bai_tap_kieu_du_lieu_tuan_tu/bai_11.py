@@ -1,6 +1,6 @@
 #bài 11
 ds_sinh_vien = []
-n = int(input("Nhập số lượng sinh viên n = ")) 
+n = int(input("Nhập sốviên n = ")) 
 for i in range(n):
     ten = input(f"Nhập tên sinh viên thứ {i + 1}: ")
     diem = float(input(f"Nhập điểm tổng kết cuối năm của {ten}: "))
